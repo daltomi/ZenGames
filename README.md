@@ -14,7 +14,7 @@ For the documentation of ZenGL and MondoZenGL use the respective websites.
 
   ```bash
 
-  git clone https://git.disroot.org/daltomi/ZenGames.git MySuperGame
+  git clone https://github.com/daltomi/ZenGames.git MySuperGame
 
   cd MySuperGame
 
